@@ -1,0 +1,23 @@
+.social{
+    padding:5px;
+    float: right;
+}
+.social-media a{
+    font-size: 20;
+    margin-right: 10px;
+}
+.about img{
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#d1{
+    align-items: center;
+}
+.social-media a{
+    align-items: end;
+}
+#navicon{
+    margin-left: 5px;
+}
